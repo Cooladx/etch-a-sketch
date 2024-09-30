@@ -1,0 +1,13 @@
+.container {
+  width: 960px; /* Adjust as needed */
+  height: 960px; /* Adjust as needed */
+  display: flex;
+  flex-wrap: wrap;
+  border: 10px solid black; /* Optional: to see the container border */
+}
+
+.grid-item {
+  border: 1px solid #ddd; /* Optional: to see the grid item borders */
+  box-sizing: border-box; /* Ensure padding and border are included in width and height */
+  /* Add more styling as needed */
+}
